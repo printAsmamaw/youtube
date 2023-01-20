@@ -1,0 +1,43 @@
+.details{
+    display: flex;
+    color: white;
+}
+.exactvideo{
+    height: 100vh;
+    width: 7000px;
+
+    padding-top: 34px;
+    padding-left: 50px;
+}
+.othervideo{
+    height: 100vh;
+    width: 100%;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 34px;
+    color: white;
+}
+.main-left{
+    display: flex;
+    align-items: center;
+   
+}
+.main-left >p{
+    padding-left: 34px;
+}
+h3{
+    margin-left: 60px;
+}
+.main-right{
+    display: flex;
+    margin-right: 200px;
+    
+
+}
+.more{
+    padding-left: 34px;
+    
+}
